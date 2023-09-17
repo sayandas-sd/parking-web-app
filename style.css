@@ -1,0 +1,24 @@
+.main-image{
+    background-image: url("./assets/car.jpeg");
+    background-size: cover;
+    height: 700px;
+    clip-path: polygon(0 11%, 100% 0%, 100% 100%, 0 100%);
+}
+
+.find-container{
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+.main-image{
+    background-color: white;
+}
+
+.footer-section{
+
+    clip-path: polygon(0 11%, 100% 0%, 100% 100%, 0 100%);
+    /*transform: skewY(-2deg);*/
+}
